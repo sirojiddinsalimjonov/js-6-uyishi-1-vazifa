@@ -6,7 +6,7 @@ let years = 2022
 let userYear = years - year
 alert ('firstName' + '\n' + 'lastName' + '\n' + userYear)
 let teng = 18
-if (userYear > teng)
+if (userYear >= teng)
 {
     alert('borasan chochima');
 }else if(userYear < teng) 
