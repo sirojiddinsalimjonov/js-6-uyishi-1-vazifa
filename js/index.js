@@ -18,5 +18,5 @@ if (userYear >= teng)
 }
 else if(userYear < teng) 
 {
-    alert('boromisan hapa boma');
+    alert('boromisan chupisin shimib yurvur');
 }
